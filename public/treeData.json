@@ -1,0 +1,13 @@
+{
+"familyTree": [
+        { "id":0, "child": "John", "parent": ""},
+        { "id":1, "child": "Aaron", "parent": "Kevin"},
+        { "id":2, "child": "Kevin", "parent": "John"},
+        { "id":3, "child": "Hannah", "parent": "Ann"},
+        { "id":4, "child": "Rose", "parent": "Sarah"},
+        { "id":5, "child": "Ann", "parent": "John"},
+        { "id":6, "child": "Sarah", "parent": "Kevin"},
+        { "id":7, "child": "Mark", "parent": "Ann"},
+        { "id":8, "child": "Angel", "parent": "Sarah"}
+    ]
+}

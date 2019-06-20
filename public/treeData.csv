@@ -1,0 +1,10 @@
+id,parent
+John,
+Aaron, Kevin
+Kevin, John
+Hanna, Ann
+Rose, Sarah
+Ann, John
+Sarah, Kevin
+Mark, Ann
+Angel, Sarah
